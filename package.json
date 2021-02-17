@@ -1,0 +1,27 @@
+{
+  "name": "multipage-form",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@miblanchard/react-native-slider": "1.5.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-hook-form": "6.11.0",
+    "react-native-dropdown-picker": "3.7.1",
+    "react-native-elements": "3.0.0-alpha.1",
+    "react-native-vector-icons": "7.1.0",
+    "react-native-web": "0.13.16",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.4.1",
+    "rn-vertical-slider": "2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
